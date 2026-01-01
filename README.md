@@ -4,3 +4,4 @@ Branch: CSE
 Roll no.: 25115039
 
 # DAY 1
+<img src="./DAY1(part1).png", display: inline>
