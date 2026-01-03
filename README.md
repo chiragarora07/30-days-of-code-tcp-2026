@@ -11,3 +11,4 @@ Roll no.: 25115039
 <img src="./DAY2.png">
 
 # Day 3
+<img src="./DAY3.png">
